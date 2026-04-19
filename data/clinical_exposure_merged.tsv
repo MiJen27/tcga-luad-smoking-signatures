@@ -1,0 +1,509 @@
+cases.submitter_id	exposures.tobacco_smoking_status	exposures.pack_years_smoked	demographic.age_at_index	demographic.gender	demographic.race	demographic.ethnicity
+TCGA-62-A471	Current Reformed Smoker for < or = 15 yrs	30.0	64.0	male	white	not hispanic or latino
+TCGA-67-3773	Current Reformed Smoker for > 15 yrs		84.0	female	white	not hispanic or latino
+TCGA-NJ-A7XG	Current Reformed Smoker for > 15 yrs		49.0	male	black or african american	not hispanic or latino
+TCGA-91-6848	Current Reformed Smoker for < or = 15 yrs		59.0	male	white	not hispanic or latino
+TCGA-55-6986	Lifelong Non-Smoker		74.0	female	white	
+TCGA-86-6851	Current Smoker	52.0	73.0	female	white	not hispanic or latino
+TCGA-73-4677	Current Reformed Smoker for > 15 yrs		74.0	male	white	not hispanic or latino
+TCGA-05-4245	Current Reformed Smoker for < or = 15 yrs	32.0	81.0	male		
+TCGA-78-7540	Lifelong Non-Smoker		66.0	female	white	
+TCGA-55-7576	Current Smoker		54.0	male	black or african american	not hispanic or latino
+TCGA-55-8615	Current Smoker	67.0	67.0	male	white	not hispanic or latino
+TCGA-49-4501	Lifelong Non-Smoker		67.0	female	white	not hispanic or latino
+TCGA-86-7954	Current Reformed Smoker for > 15 yrs	8.0	68.0	female	white	not hispanic or latino
+TCGA-44-2655	Current Reformed Smoker for > 15 yrs	30.0	65.0	female	white	not hispanic or latino
+TCGA-49-4505	Current Reformed Smoker for < or = 15 yrs	74.0	61.0	female	white	not hispanic or latino
+TCGA-97-8177	Lifelong Non-Smoker		59.0	female	white	not hispanic or latino
+TCGA-J2-A4AD	Current Smoker	120.0	61.0	female	white	not hispanic or latino
+TCGA-50-6592	Current Reformed Smoker for < or = 15 yrs		71.0	female	white	not hispanic or latino
+TCGA-86-8674	Current Reformed Smoker for < or = 15 yrs	37.5	50.0	male	white	not hispanic or latino
+TCGA-55-6981	Current Reformed Smoker for > 15 yrs		53.0	female	white	not hispanic or latino
+TCGA-55-7284	Current Reformed Smoker for > 15 yrs		74.0	male	white	not hispanic or latino
+TCGA-91-6836	Current Smoker	50.0	52.0	female	white	not hispanic or latino
+TCGA-44-6146	Current Reformed Smoker for > 15 yrs	15.0	64.0	male	white	not hispanic or latino
+TCGA-62-A46P	Current Reformed Smoker for < or = 15 yrs	40.0	65.0	male	white	not hispanic or latino
+TCGA-86-7955	Lifelong Non-Smoker		62.0	male	white	not hispanic or latino
+TCGA-50-6597	Lifelong Non-Smoker		79.0	female	white	not hispanic or latino
+TCGA-91-A4BD	Current Reformed Smoker for > 15 yrs		78.0	male	white	not hispanic or latino
+TCGA-67-3771	Current Reformed Smoker for < or = 15 yrs		77.0	female	black or african american	not hispanic or latino
+TCGA-38-4625	Current Smoker	50.0	66.0	female	white	not hispanic or latino
+TCGA-86-8054	Current Smoker	9.0	61.0	male	white	not hispanic or latino
+TCGA-67-3776	Current Reformed Smoker for > 15 yrs		57.0	female	white	not hispanic or latino
+TCGA-55-8089	Current Smoker	97.0	56.0	male	white	not hispanic or latino
+TCGA-67-6217	Current Reformed Smoker for > 15 yrs		73.0	female	white	not hispanic or latino
+TCGA-50-6590	Current Reformed Smoker for < or = 15 yrs	50.0	72.0	female	white	not hispanic or latino
+TCGA-97-8179	Current Reformed Smoker for > 15 yrs	60.0	72.0	male	white	not hispanic or latino
+TCGA-38-4629	Current Reformed Smoker for < or = 15 yrs	100.0	68.0	male	white	not hispanic or latino
+TCGA-50-5939	Current Reformed Smoker for > 15 yrs	15.0	85.0	male	white	not hispanic or latino
+TCGA-55-A48Y	Current Smoker	50.0	69.0	male	white	not hispanic or latino
+TCGA-97-8176	Current Reformed Smoker for < or = 15 yrs	40.0	63.0	male	white	not hispanic or latino
+TCGA-50-5931	Current Reformed Smoker for < or = 15 yrs	40.0	75.0	female	white	not hispanic or latino
+TCGA-91-6829	Current Reformed Smoker for < or = 15 yrs	94.5	78.0	male	white	not hispanic or latino
+TCGA-49-6744	Current Reformed Smoker for < or = 15 yrs	20.0	64.0	female	white	
+TCGA-50-5072	Current Reformed Smoker for > 15 yrs	15.0	74.0	male	white	not hispanic or latino
+TCGA-MP-A4SW	Current Reformed Smoker for > 15 yrs	15.0	53.0	male	white	
+TCGA-78-7162	Current Smoker	12.0	75.0	male	white	
+TCGA-55-A48Z	Current Reformed Smoker for < or = 15 yrs	40.0	60.0	female	white	not hispanic or latino
+TCGA-78-8662	Current Smoker	45.0	53.0	female		
+TCGA-MN-A4N5	Current Reformed Smoker for < or = 15 yrs		63.0	male	white	not hispanic or latino
+TCGA-78-8640	Current Smoker	45.0	59.0	male		
+TCGA-95-7562	Current Reformed Smoker for > 15 yrs	10.0	71.0	male	black or african american	not hispanic or latino
+TCGA-73-4676	Current Reformed Smoker for < or = 15 yrs	48.0	45.0	male	white	not hispanic or latino
+TCGA-55-1596	Current Smoker	50.0	55.0	male	asian	not hispanic or latino
+TCGA-64-1680	Current Reformed Smoker for > 15 yrs	50.0	63.0	male	white	not hispanic or latino
+TCGA-97-7552	Current Reformed Smoker for > 15 yrs	40.0	70.0	male	white	not hispanic or latino
+TCGA-69-7763	Current Reformed Smoker for < or = 15 yrs	7.5	69.0	male	white	not hispanic or latino
+TCGA-73-4670	Current Reformed Smoker for < or = 15 yrs	30.0	69.0	female	white	not hispanic or latino
+TCGA-64-5779	Current Reformed Smoker for < or = 15 yrs	40.0	61.0	male	white	not hispanic or latino
+TCGA-75-5146	Current Reformed Smoker for > 15 yrs			male		
+TCGA-97-7546	Current Reformed Smoker for > 15 yrs	25.0	76.0	female	white	not hispanic or latino
+TCGA-55-7911	Current Reformed Smoker for > 15 yrs	96.0	70.0	female	white	not hispanic or latino
+TCGA-55-8511	Current Smoker	58.0	73.0	female	white	not hispanic or latino
+TCGA-44-5644	Current Smoker	17.5	51.0	female	white	not hispanic or latino
+TCGA-55-8512	Current Smoker	19.0	41.0	male	white	not hispanic or latino
+TCGA-75-5125	Current Reformed Smoker for > 15 yrs	25.0		male		
+TCGA-38-4626	Current Smoker	40.0	57.0	female	white	not hispanic or latino
+TCGA-49-6742	Current Reformed Smoker for > 15 yrs	10.0	70.0	male	white	not hispanic or latino
+TCGA-44-6144	Current Smoker	67.5	58.0	male	white	not hispanic or latino
+TCGA-75-6212	Lifelong Non-Smoker			female		
+TCGA-44-8119	Current Smoker	50.0	73.0	male	white	not hispanic or latino
+TCGA-69-7764	Current Reformed Smoker for > 15 yrs	30.0	75.0	male	white	not hispanic or latino
+TCGA-38-4631	Current Reformed Smoker for < or = 15 yrs	40.0	72.0	female	white	not hispanic or latino
+TCGA-38-A44F	Current Reformed Smoker for > 15 yrs	12.0	80.0	male	white	not hispanic or latino
+TCGA-83-5908	Current Reformed Smoker for < or = 15 yrs	69.0	59.0	female	white	not hispanic or latino
+TCGA-L4-A4E6	Current Reformed Smoker for > 15 yrs	30.0	67.0	male	white	not hispanic or latino
+TCGA-44-5643	Current Smoker	20.0	53.0	male	black or african american	not hispanic or latino
+TCGA-86-8279	Lifelong Non-Smoker		46.0	male	white	not hispanic or latino
+TCGA-55-7724	Current Reformed Smoker for < or = 15 yrs	50.0	76.0	female	white	not hispanic or latino
+TCGA-73-4662	Current Reformed Smoker for > 15 yrs	10.0	65.0	female	white	not hispanic or latino
+TCGA-73-A9RS	Current Smoker	11.0	41.0	male	black or african american	not hispanic or latino
+TCGA-L9-A5IP	Current Reformed Smoker for < or = 15 yrs		40.0	female	black or african american	not hispanic or latino
+TCGA-J2-8194	Current Reformed Smoker for > 15 yrs	20.0	69.0	female	white	not hispanic or latino
+TCGA-NJ-A4YI	Current Reformed Smoker for > 15 yrs	3.0	87.0	female	white	
+TCGA-55-8299	Current Reformed Smoker for < or = 15 yrs	20.0	61.0	female	white	not hispanic or latino
+TCGA-75-6211	Current Smoker	34.0		female		
+TCGA-78-7149	Current Smoker	115.0	71.0	male	white	
+TCGA-55-6987	Current Reformed Smoker for < or = 15 yrs		77.0	male	white	not hispanic or latino
+TCGA-55-6980	Lifelong Non-Smoker		56.0	male	white	
+TCGA-91-6835	Current Reformed Smoker for > 15 yrs	25.0	81.0	female	white	not hispanic or latino
+TCGA-86-8585	Lifelong Non-Smoker		57.0	male	white	not hispanic or latino
+TCGA-62-8398	Current Reformed Smoker for < or = 15 yrs	20.0	55.0	male	white	not hispanic or latino
+TCGA-MP-A4T4	Current Smoker	50.0	68.0	female	white	
+TCGA-93-A4JP	Lifelong Non-Smoker		64.0	male	asian	not hispanic or latino
+TCGA-S2-AA1A	Current Reformed Smoker for > 15 yrs	95.0	68.0	female	black or african american	not hispanic or latino
+TCGA-50-5066	Lifelong Non-Smoker		72.0	male	black or african american	not hispanic or latino
+TCGA-05-4398	Current Smoker	72.0	47.0	female		
+TCGA-97-A4M6	Lifelong Non-Smoker		45.0	female	white	not hispanic or latino
+TCGA-75-6214	Current Smoker	40.0		female		
+TCGA-L4-A4E5	Current Reformed Smoker for < or = 15 yrs	33.0	48.0	female	white	not hispanic or latino
+TCGA-55-A48X	Current Reformed Smoker for < or = 15 yrs	36.0	63.0	female	white	not hispanic or latino
+TCGA-44-6774	Current Smoker	20.0	56.0	female	white	not hispanic or latino
+TCGA-05-5423	Current Reformed Smoker for > 15 yrs	72.0	65.0	male		
+TCGA-05-4244	Current Reformed Smoker for < or = 15 yrs	38.0	70.0	male		
+TCGA-05-4382	Current Reformed Smoker for < or = 15 yrs	62.0	68.0	male		
+TCGA-97-A4M2	Current Smoker	100.0	66.0	male	white	not hispanic or latino
+TCGA-44-6777	Current Reformed Smoker for < or = 15 yrs	64.0	85.0	female	white	
+TCGA-86-8055	Current Smoker	60.0	79.0	male	white	not hispanic or latino
+TCGA-55-6982	Lifelong Non-Smoker		79.0	female	white	
+TCGA-55-A4DF	Current Reformed Smoker for > 15 yrs	60.0	88.0	male	white	not hispanic or latino
+TCGA-55-8096	Current Smoker	104.0	67.0	female	white	not hispanic or latino
+TCGA-J2-8192	Lifelong Non-Smoker		65.0	female	white	not hispanic or latino
+TCGA-67-3774	Current Reformed Smoker for > 15 yrs		73.0	female	white	not hispanic or latino
+TCGA-05-4426	Current Reformed Smoker for > 15 yrs	20.0	71.0	male		
+TCGA-71-8520	Lifelong Non-Smoker		60.0	female	asian	not hispanic or latino
+TCGA-97-7553	Current Smoker	20.0	58.0	female	white	not hispanic or latino
+TCGA-MP-A4TD	Current Reformed Smoker for > 15 yrs	20.0	71.0	male	white	
+TCGA-95-A4VN	Current Reformed Smoker for < or = 15 yrs	42.0	62.0	female	white	not hispanic or latino
+TCGA-97-8171	Current Smoker	65.0	81.0	male	asian	not hispanic or latino
+TCGA-55-A492	Current Reformed Smoker for > 15 yrs	35.0	70.0	female	white	not hispanic or latino
+TCGA-05-4430	Current Reformed Smoker for < or = 15 yrs	80.0	59.0	female		
+TCGA-49-AAR0	Current Smoker	37.0	57.0	male	black or african american	not hispanic or latino
+TCGA-55-A57B	Lifelong Non-Smoker		80.0	female	black or african american	not hispanic or latino
+TCGA-L9-A443	Current Reformed Smoker for < or = 15 yrs	90.0	63.0	female	white	not hispanic or latino
+TCGA-95-7567	Current Reformed Smoker for < or = 15 yrs		61.0	male	white	not hispanic or latino
+TCGA-44-3396	Current Smoker	50.0	74.0	female	white	not hispanic or latino
+TCGA-44-6775	Current Reformed Smoker for < or = 15 yrs	25.0	72.0	female	white	hispanic or latino
+TCGA-05-4420	Current Smoker	38.0	41.0	male		
+TCGA-93-A4JO	Current Reformed Smoker for < or = 15 yrs	50.0	70.0	male	white	not hispanic or latino
+TCGA-69-7974	Current Reformed Smoker for < or = 15 yrs	30.0	54.0	female	white	not hispanic or latino
+TCGA-55-A4DG	Current Reformed Smoker for < or = 15 yrs	100.0	71.0	male	white	not hispanic or latino
+TCGA-67-4679	Current Reformed Smoker for < or = 15 yrs		68.0	male	white	not hispanic or latino
+TCGA-55-8506	Current Smoker		62.0	female	white	not hispanic or latino
+TCGA-05-5428	Current Reformed Smoker for > 15 yrs	30.0	57.0	male		
+TCGA-44-7672	Current Smoker	20.0	52.0	female	white	not hispanic or latino
+TCGA-64-5781	Current Reformed Smoker for < or = 15 yrs	25.0	55.0	female	white	not hispanic or latino
+TCGA-NJ-A4YP	Current Reformed Smoker, Duration Not Specified	60.0	52.0	male	white	not hispanic or latino
+TCGA-O1-A52J	Current Reformed Smoker for > 15 yrs	45.0	74.0	female	white	not hispanic or latino
+TCGA-44-2656	Current Reformed Smoker for < or = 15 yrs	23.0	59.0	male	white	not hispanic or latino
+TCGA-53-7813	Current Reformed Smoker for < or = 15 yrs	35.0	51.0	female	white	not hispanic or latino
+TCGA-62-8402	Lifelong Non-Smoker		73.0	female	white	not hispanic or latino
+TCGA-78-7633	Current Reformed Smoker for < or = 15 yrs	94.0	67.0	male	white	
+TCGA-35-4122	Current Reformed Smoker for < or = 15 yrs	45.0	69.0	male	white	not hispanic or latino
+TCGA-69-8253	Current Reformed Smoker for < or = 15 yrs	7.8	59.0	female	black or african american	not hispanic or latino
+TCGA-05-4422	Current Reformed Smoker for < or = 15 yrs	147.0	68.0	male		
+TCGA-78-7535	Current Smoker	35.0	45.0	male	white	
+TCGA-86-8358	Current Smoker	20.0	44.0	male	white	not hispanic or latino
+TCGA-MP-A4T7	Current Reformed Smoker for < or = 15 yrs	50.0	75.0	female		
+TCGA-86-8056	Current Reformed Smoker for > 15 yrs	36.0	63.0	female	white	not hispanic or latino
+TCGA-55-6642	Current Smoker		63.0	male	white	
+TCGA-49-AAR9	Current Smoker		61.0	male	black or african american	not hispanic or latino
+TCGA-86-8074	Current Smoker	40.0	62.0	female	white	not hispanic or latino
+TCGA-75-7027	Current Smoker	50.0		male		
+TCGA-L9-A444	Current Smoker	10.0	60.0	female	white	not hispanic or latino
+TCGA-91-8497	Lifelong Non-Smoker		75.0	female	white	not hispanic or latino
+TCGA-05-4249	Current Reformed Smoker for > 15 yrs	52.0	67.0	male		
+TCGA-44-7669	Current Smoker	20.0	59.0	male	black or african american	not hispanic or latino
+TCGA-71-6725	Current Smoker		48.0	female	asian	not hispanic or latino
+TCGA-55-8092	Current Reformed Smoker for < or = 15 yrs	40.0	75.0	male	white	not hispanic or latino
+TCGA-73-4666	Current Reformed Smoker for < or = 15 yrs	10.0	52.0	female	white	not hispanic or latino
+TCGA-49-6761	Current Reformed Smoker for < or = 15 yrs	50.0	68.0	female	white	not hispanic or latino
+TCGA-78-7159	Current Reformed Smoker for < or = 15 yrs	21.0	60.0	female	white	
+TCGA-55-8090	Current Smoker		80.0	male	white	not hispanic or latino
+TCGA-55-7227	Current Reformed Smoker for > 15 yrs		77.0	male	white	not hispanic or latino
+TCGA-78-7145	Current Reformed Smoker for < or = 15 yrs	25.0	52.0	female	white	
+TCGA-75-7031	Current Reformed Smoker for > 15 yrs	5.0		female		
+TCGA-78-7158	Current Reformed Smoker for < or = 15 yrs	14.0	59.0	female	white	
+TCGA-49-4507	Current Reformed Smoker for < or = 15 yrs	78.0	73.0	female	white	not hispanic or latino
+TCGA-55-6978	Lifelong Non-Smoker		81.0	male	white	not hispanic or latino
+TCGA-49-AARO	Current Smoker		39.0	female	black or african american	not hispanic or latino
+TCGA-86-A4D0	Current Smoker		48.0	male	white	not hispanic or latino
+TCGA-NJ-A4YQ	Current Reformed Smoker for < or = 15 yrs	40.0	69.0	female	white	not hispanic or latino
+TCGA-86-7714	Current Smoker	43.0	61.0	female	black or african american	not hispanic or latino
+TCGA-78-7143	Lifelong Non-Smoker		62.0	female	white	
+TCGA-91-8499	Current Smoker	90.0	76.0	female	white	not hispanic or latino
+TCGA-86-7953	Lifelong Non-Smoker		69.0	female	white	not hispanic or latino
+TCGA-55-7816	Lifelong Non-Smoker		49.0	female	white	not hispanic or latino
+TCGA-55-6983	Current Reformed Smoker for < or = 15 yrs	60.0	81.0	male	white	not hispanic or latino
+TCGA-53-7624	Current Smoker	50.0	40.0	female	white	hispanic or latino
+TCGA-L9-A7SV	Current Reformed Smoker for > 15 yrs	93.0	69.0	male	black or african american	not hispanic or latino
+TCGA-55-8620	Current Reformed Smoker for < or = 15 yrs	154.0	60.0	male	white	not hispanic or latino
+TCGA-69-8255	Current Smoker	40.0	71.0	male	white	hispanic or latino
+TCGA-62-A46Y	Lifelong Non-Smoker		70.0	female	white	not hispanic or latino
+TCGA-97-A4M3	Current Reformed Smoker for > 15 yrs	37.5	69.0	female	white	not hispanic or latino
+TCGA-75-6207	Current Reformed Smoker for > 15 yrs	10.0		male		
+TCGA-NJ-A4YF	Current Reformed Smoker for > 15 yrs	30.0	50.0	female	black or african american	not hispanic or latino
+TCGA-91-6830	Current Reformed Smoker for < or = 15 yrs	12.0	65.0	female	white	not hispanic or latino
+TCGA-78-7163	Current Reformed Smoker for < or = 15 yrs	41.0	60.0	male	white	
+TCGA-78-8648	Current Smoker	45.0	58.0	female		
+TCGA-55-6979	Current Reformed Smoker for > 15 yrs		59.0	female	white	
+TCGA-80-5608	Current Smoker	26.0		female		
+TCGA-62-8395	Lifelong Non-Smoker		80.0	female	white	not hispanic or latino
+TCGA-35-5375	Current Reformed Smoker for < or = 15 yrs	35.0	61.0	male	white	not hispanic or latino
+TCGA-44-6778	Current Reformed Smoker for < or = 15 yrs	15.0	59.0	male	black or african american	
+TCGA-86-8281	Current Reformed Smoker for > 15 yrs	30.0	75.0	male	white	not hispanic or latino
+TCGA-MP-A4T6	Current Reformed Smoker for > 15 yrs	50.0	76.0	female	white	not hispanic or latino
+TCGA-55-8085	Current Smoker		64.0	male	white	not hispanic or latino
+TCGA-97-A4M5	Current Reformed Smoker for > 15 yrs	6.0	83.0	male	white	not hispanic or latino
+TCGA-97-7547	Current Reformed Smoker for > 15 yrs	30.0	67.0	female	white	not hispanic or latino
+TCGA-44-6145	Current Reformed Smoker for < or = 15 yrs	75.0	62.0	female	white	not hispanic or latino
+TCGA-49-4486	Current Reformed Smoker for > 15 yrs	17.5	72.0	male	white	not hispanic or latino
+TCGA-62-8399	Current Reformed Smoker for < or = 15 yrs	70.0	62.0	male	white	not hispanic or latino
+TCGA-05-5429	Lifelong Non-Smoker		60.0	male		
+TCGA-80-5607	Current Reformed Smoker for > 15 yrs	15.0		female		
+TCGA-86-A4P8	Lifelong Non-Smoker		59.0	female	white	not hispanic or latino
+TCGA-91-8496	Lifelong Non-Smoker		63.0	female	white	not hispanic or latino
+TCGA-55-7281	Current Reformed Smoker for < or = 15 yrs	20.0	70.0	female	white	
+TCGA-05-4424	Current Reformed Smoker for < or = 15 yrs	50.0	70.0	male		
+TCGA-44-3919	Lifelong Non-Smoker		71.0	female	white	not hispanic or latino
+TCGA-67-3772	Lifelong Non-Smoker		82.0	female	white	not hispanic or latino
+TCGA-78-7537	Current Reformed Smoker for > 15 yrs	20.0	72.0	male		
+TCGA-55-7994	Current Smoker	28.0	81.0	male	white	not hispanic or latino
+TCGA-69-A59K	Current Reformed Smoker for < or = 15 yrs	25.0	60.0	female	black or african american	not hispanic or latino
+TCGA-75-7025	Current Reformed Smoker for > 15 yrs			male		
+TCGA-55-8514	Current Reformed Smoker for < or = 15 yrs	20.0	70.0	female	black or african american	not hispanic or latino
+TCGA-44-4112	Current Reformed Smoker for > 15 yrs	30.0	60.0	female	white	not hispanic or latino
+TCGA-55-8094	Current Reformed Smoker for < or = 15 yrs	70.0	51.0	male	white	not hispanic or latino
+TCGA-05-4425	Current Reformed Smoker for > 15 yrs	28.0	70.0	female		
+TCGA-55-7914	Current Smoker	5.0	71.0	female	white	not hispanic or latino
+TCGA-49-6767	Current Smoker	30.0	46.0	female	white	
+TCGA-49-4490	Current Reformed Smoker for > 15 yrs	5.0	45.0	female	white	not hispanic or latino
+TCGA-35-4123	Current Reformed Smoker for < or = 15 yrs	20.0	38.0	male	white	not hispanic or latino
+TCGA-55-1594	Current Smoker		68.0	male	white	not hispanic or latino
+TCGA-44-8117	Current Reformed Smoker for < or = 15 yrs	54.0	54.0	female	white	not hispanic or latino
+TCGA-05-4397	Current Smoker	45.0	65.0	male		
+TCGA-44-3918	Current Reformed Smoker for > 15 yrs	20.0	60.0	female	white	not hispanic or latino
+TCGA-95-8494	Current Reformed Smoker, Duration Not Specified		67.0	male	white	not hispanic or latino
+TCGA-MP-A4T9	Current Reformed Smoker for < or = 15 yrs	24.0	54.0	female	white	not hispanic or latino
+TCGA-MP-A4SV	Current Smoker	110.0	67.0	male		
+TCGA-93-A4JQ	Current Reformed Smoker for > 15 yrs		49.0	male	white	not hispanic or latino
+TCGA-44-3917	Current Smoker	16.0	33.0	female	white	not hispanic or latino
+TCGA-05-4402	Lifelong Non-Smoker		56.0	female		
+TCGA-62-8394	Lifelong Non-Smoker		65.0	female	white	not hispanic or latino
+TCGA-55-8204	Current Reformed Smoker for > 15 yrs		87.0	female	white	not hispanic or latino
+TCGA-MN-A4N1	Current Smoker		60.0	male	black or african american	not hispanic or latino
+TCGA-50-5942	Current Reformed Smoker for < or = 15 yrs	30.0	67.0	female	white	not hispanic or latino
+TCGA-05-4395	Current Reformed Smoker for > 15 yrs		76.0	male		
+TCGA-49-AAR4	Current Smoker	35.0	51.0	male	black or african american	not hispanic or latino
+TCGA-55-8619	Lifelong Non-Smoker		72.0	female	white	not hispanic or latino
+TCGA-69-7761	Current Reformed Smoker for > 15 yrs	20.0	84.0	male	white	not hispanic or latino
+TCGA-73-7499	Lifelong Non-Smoker		81.0	female	white	not hispanic or latino
+TCGA-55-7903	Current Smoker	40.0	64.0	male	white	not hispanic or latino
+TCGA-55-8208	Current Smoker	50.0	73.0	female	white	not hispanic or latino
+TCGA-78-8660	Current Reformed Smoker for < or = 15 yrs	11.0	69.0	male		
+TCGA-05-4427	Current Reformed Smoker for < or = 15 yrs	8.0	65.0	female		
+TCGA-75-5122	Current Reformed Smoker for > 15 yrs	20.0		male		
+TCGA-62-A46U	Lifelong Non-Smoker		71.0	female	white	not hispanic or latino
+TCGA-MP-A4TH	Current Reformed Smoker for > 15 yrs	20.0	70.0	female	white	not hispanic or latino
+TCGA-78-7156	Current Reformed Smoker for > 15 yrs	84.0	62.0	male	white	
+TCGA-86-8669	Current Smoker	47.0	64.0	male	white	not hispanic or latino
+TCGA-44-A47A	Current Reformed Smoker for < or = 15 yrs	80.0	78.0	female	white	not hispanic or latino
+TCGA-78-7539	Current Reformed Smoker for > 15 yrs	2.2	75.0	female	white	
+TCGA-MP-A4T8	Current Reformed Smoker for > 15 yrs	25.0	68.0	male		
+TCGA-NJ-A55R	Current Reformed Smoker for > 15 yrs	5.0	67.0	male	white	not hispanic or latino
+TCGA-53-A4EZ	Current Reformed Smoker for > 15 yrs	40.0	63.0	male	white	hispanic or latino
+TCGA-55-6970	Current Reformed Smoker for < or = 15 yrs		67.0	female	white	
+TCGA-86-8359	Current Smoker	36.0	52.0	male	white	not hispanic or latino
+TCGA-99-8032	Current Smoker	90.0	61.0	male	white	not hispanic or latino
+TCGA-50-7109	Current Smoker	120.0	60.0	male	white	not hispanic or latino
+TCGA-44-7667	Current Smoker	50.0	49.0	female	white	not hispanic or latino
+TCGA-NJ-A4YG	Current Reformed Smoker for < or = 15 yrs	104.0	65.0	male	white	
+TCGA-55-8302	Current Smoker	59.0	54.0	male	white	
+TCGA-64-1679	Current Smoker	40.0	58.0	female	white	not hispanic or latino
+TCGA-38-7271	Current Reformed Smoker for < or = 15 yrs	25.0	72.0	female	white	not hispanic or latino
+TCGA-50-6595	Current Reformed Smoker for > 15 yrs		74.0	female	white	not hispanic or latino
+TCGA-55-6968	Current Smoker		61.0	male	white	not hispanic or latino
+TCGA-44-8120	Current Reformed Smoker, Duration Not Specified	30.0	58.0	male	black or african american	not hispanic or latino
+TCGA-99-8025	Current Reformed Smoker for < or = 15 yrs	20.0	72.0	female	black or african american	not hispanic or latino
+TCGA-50-6594	Current Reformed Smoker for < or = 15 yrs		79.0	female	black or african american	not hispanic or latino
+TCGA-44-A479	Current Reformed Smoker for < or = 15 yrs	40.0	73.0	female	black or african american	not hispanic or latino
+TCGA-86-8076	Lifelong Non-Smoker		42.0	male	white	not hispanic or latino
+TCGA-MP-A4TF	Current Reformed Smoker for < or = 15 yrs	40.0	58.0	female	white	not hispanic or latino
+TCGA-78-7161	Current Reformed Smoker for < or = 15 yrs	27.8	69.0	female	white	
+TCGA-38-4632	Current Reformed Smoker for < or = 15 yrs	10.0	42.0	male	black or african american	not hispanic or latino
+TCGA-95-8039	Lifelong Non-Smoker		72.0	male	white	not hispanic or latino
+TCGA-86-8075	Lifelong Non-Smoker		66.0	female	white	not hispanic or latino
+TCGA-44-6147	Current Reformed Smoker for > 15 yrs		67.0	female	white	not hispanic or latino
+TCGA-69-7760	Lifelong Non-Smoker		73.0	male	white	not hispanic or latino
+TCGA-44-6148	Current Reformed Smoker for > 15 yrs	60.0	60.0	male	white	not hispanic or latino
+TCGA-64-1677	Current Smoker	50.0	77.0	female	white	not hispanic or latino
+TCGA-NJ-A55O	Current Reformed Smoker for < or = 15 yrs	30.0	56.0	female	white	not hispanic or latino
+TCGA-05-5420	Current Reformed Smoker for < or = 15 yrs	40.0	67.0	male		
+TCGA-97-8174	Current Reformed Smoker for > 15 yrs	40.0	67.0	male	white	not hispanic or latino
+TCGA-MP-A4SY	Current Reformed Smoker for < or = 15 yrs	40.0	61.0	male	white	not hispanic or latino
+TCGA-55-6971	Current Reformed Smoker for < or = 15 yrs	60.0	59.0	female	white	
+TCGA-55-8621	Current Reformed Smoker for < or = 15 yrs	30.0	75.0	female	white	not hispanic or latino
+TCGA-86-A456	Current Reformed Smoker for < or = 15 yrs		78.0	female	asian	not hispanic or latino
+TCGA-55-7573	Current Reformed Smoker for > 15 yrs		72.0	female	white	not hispanic or latino
+TCGA-MP-A5C7	Current Reformed Smoker for > 15 yrs	15.0	76.0	female	white	not hispanic or latino
+TCGA-MP-A4TJ	Current Smoker		62.0	female		
+TCGA-64-5778	Current Reformed Smoker for < or = 15 yrs	68.0	60.0	male	white	not hispanic or latino
+TCGA-55-7726	Current Reformed Smoker for > 15 yrs	30.0	72.0	female	white	not hispanic or latino
+TCGA-62-8397	Lifelong Non-Smoker		70.0	female	white	not hispanic or latino
+TCGA-L9-A8F4	Current Smoker	14.0	64.0	female	black or african american	not hispanic or latino
+TCGA-75-5126	Current Reformed Smoker for < or = 15 yrs	40.0		female		
+TCGA-44-2664	Current Smoker	23.0	66.0	female	black or african american	not hispanic or latino
+TCGA-91-6828	Current Reformed Smoker for > 15 yrs		70.0	male	white	not hispanic or latino
+TCGA-91-6849	Current Reformed Smoker for > 15 yrs	30.0	75.0	female	black or african american	not hispanic or latino
+TCGA-99-8033	Lifelong Non-Smoker		74.0	female	white	not hispanic or latino
+TCGA-55-8205	Current Reformed Smoker for < or = 15 yrs	30.0	76.0	female	white	not hispanic or latino
+TCGA-55-8510	Current Smoker		55.0	female	white	not hispanic or latino
+TCGA-44-A47B	Current Reformed Smoker for > 15 yrs	4.5	79.0	male	white	not hispanic or latino
+TCGA-99-7458	Current Reformed Smoker for < or = 15 yrs	52.0	74.0	female	white	not hispanic or latino
+TCGA-49-AAQV	Lifelong Non-Smoker		63.0	female	black or african american	not hispanic or latino
+TCGA-99-8028	Current Reformed Smoker for < or = 15 yrs	30.0	50.0	female	black or african american	not hispanic or latino
+TCGA-91-6847	Current Reformed Smoker for > 15 yrs		62.0	female	white	not hispanic or latino
+TCGA-MP-A4TA	Current Reformed Smoker for < or = 15 yrs	55.0	75.0	female	white	not hispanic or latino
+TCGA-49-AARN	Current Reformed Smoker, Duration Not Specified		56.0	female	black or african american	not hispanic or latino
+TCGA-55-5899	Current Smoker		58.0	male	white	not hispanic or latino
+TCGA-MP-A4TC	Current Reformed Smoker for > 15 yrs	125.0	77.0	male	white	not hispanic or latino
+TCGA-49-AARQ	Current Reformed Smoker for < or = 15 yrs	60.0	41.0	female	black or african american	not hispanic or latino
+TCGA-05-4384	Current Reformed Smoker for > 15 yrs	20.0	66.0	male		
+TCGA-75-6205	Lifelong Non-Smoker			female		
+TCGA-55-8203	Current Smoker	50.0	69.0	female	white	not hispanic or latino
+TCGA-50-6591	Lifelong Non-Smoker		63.0	female	white	not hispanic or latino
+TCGA-44-7670	Current Smoker	30.0	47.0	female	white	hispanic or latino
+TCGA-05-5425	Current Reformed Smoker for > 15 yrs	40.0	68.0	male		
+TCGA-49-AARR	Current Reformed Smoker for > 15 yrs		68.0	male	black or african american	not hispanic or latino
+TCGA-49-6745	Current Reformed Smoker for < or = 15 yrs	20.0	82.0	male	white	
+TCGA-86-7711	Current Smoker	50.0	70.0	male	white	hispanic or latino
+TCGA-97-8552	Lifelong Non-Smoker		55.0	female	white	not hispanic or latino
+TCGA-50-8459	Current Smoker	10.0	68.0	male	white	not hispanic or latino
+TCGA-93-A4JN	Current Reformed Smoker for > 15 yrs	40.0	71.0	male	white	not hispanic or latino
+TCGA-95-A4VP	Current Reformed Smoker for < or = 15 yrs	20.0	66.0	female	white	
+TCGA-86-A4P7	Lifelong Non-Smoker		63.0	female	white	not hispanic or latino
+TCGA-69-8453	Current Reformed Smoker for > 15 yrs	12.0	77.0	male	white	not hispanic or latino
+TCGA-05-4396	Current Reformed Smoker for > 15 yrs	19.0	76.0	male		
+TCGA-55-7725	Current Reformed Smoker for > 15 yrs	16.0	68.0	female	white	not hispanic or latino
+TCGA-55-6975	Current Reformed Smoker for < or = 15 yrs		61.0	male	white	not hispanic or latino
+TCGA-78-7150	Current Reformed Smoker for < or = 15 yrs	37.0	59.0	male	white	
+TCGA-49-4512	Lifelong Non-Smoker		69.0	female	white	not hispanic or latino
+TCGA-55-8206	Lifelong Non-Smoker		56.0	male	white	not hispanic or latino
+TCGA-05-4417	Current Reformed Smoker for < or = 15 yrs	56.0	51.0	female		
+TCGA-55-A491	Current Reformed Smoker for > 15 yrs	45.0	81.0	female	white	not hispanic or latino
+TCGA-49-6743	Current Reformed Smoker for < or = 15 yrs	50.0	81.0	female	white	
+TCGA-05-4389	Current Reformed Smoker for > 15 yrs	43.0	70.0	male		
+TCGA-86-7701	Lifelong Non-Smoker		66.0	male	white	not hispanic or latino
+TCGA-55-8513	Lifelong Non-Smoker		77.0	female	white	not hispanic or latino
+TCGA-55-1592	Current Reformed Smoker for < or = 15 yrs		65.0	male	white	not hispanic or latino
+TCGA-95-7948	Current Reformed Smoker for > 15 yrs	0.15	42.0	female	white	not hispanic or latino
+TCGA-44-7660	Current Smoker	124.0	72.0	male	white	not hispanic or latino
+TCGA-69-7979	Current Smoker	28.0	71.0	female	white	not hispanic or latino
+TCGA-L9-A743	Current Smoker	40.5	56.0	male	black or african american	not hispanic or latino
+TCGA-64-5815	Current Reformed Smoker for > 15 yrs	30.0	74.0	male	white	not hispanic or latino
+TCGA-55-7574	Current Reformed Smoker for < or = 15 yrs	2.0	64.0	female	white	not hispanic or latino
+TCGA-L9-A50W	Current Reformed Smoker for > 15 yrs	19.0	75.0	male	black or african american	not hispanic or latino
+TCGA-86-8278	Lifelong Non-Smoker		63.0	female	white	not hispanic or latino
+TCGA-75-6203	Lifelong Non-Smoker			female		
+TCGA-55-8614	Current Reformed Smoker for > 15 yrs	40.0	76.0	male	white	not hispanic or latino
+TCGA-78-8655	Current Reformed Smoker for < or = 15 yrs	10.0	77.0	female		
+TCGA-97-7554	Current Reformed Smoker for > 15 yrs	30.0	83.0	female	white	not hispanic or latino
+TCGA-50-6673	Lifelong Non-Smoker		84.0	female	white	
+TCGA-44-7662	Current Smoker	50.0	61.0	male	white	not hispanic or latino
+TCGA-95-7944	Current Smoker	50.0	71.0	male	white	not hispanic or latino
+TCGA-55-7995	Current Reformed Smoker for < or = 15 yrs	60.0	73.0	female	white	not hispanic or latino
+TCGA-97-8547	Lifelong Non-Smoker		78.0	female		
+TCGA-73-7498	Current Reformed Smoker for < or = 15 yrs	28.0	58.0	female	white	not hispanic or latino
+TCGA-55-A494	Current Reformed Smoker for > 15 yrs	7.0	61.0	female	white	not hispanic or latino
+TCGA-73-4675	Current Reformed Smoker for < or = 15 yrs	41.0	59.0	male	white	not hispanic or latino
+TCGA-95-7039	Current Smoker	34.0	54.0	female	white	not hispanic or latino
+TCGA-05-4433	Current Reformed Smoker for > 15 yrs	1.0	82.0	male		
+TCGA-69-7980	Current Reformed Smoker for < or = 15 yrs	80.0	70.0	female	white	not hispanic or latino
+TCGA-73-4658	Current Reformed Smoker for > 15 yrs	25.0	80.0	female	white	not hispanic or latino
+TCGA-55-8097	Current Reformed Smoker for < or = 15 yrs	35.0	60.0	female	white	not hispanic or latino
+TCGA-73-4668	Current Reformed Smoker for < or = 15 yrs	55.0	66.0	female	american indian or alaska native	not hispanic or latino
+TCGA-55-8207	Current Reformed Smoker for > 15 yrs		73.0	male	white	not hispanic or latino
+TCGA-97-7941	Current Reformed Smoker for > 15 yrs	22.5	72.0	female	white	not hispanic or latino
+TCGA-55-7910	Current Reformed Smoker for < or = 15 yrs	15.0	50.0	female	black or african american	not hispanic or latino
+TCGA-55-8301	Current Smoker	100.0	58.0	male	white	not hispanic or latino
+TCGA-78-7166	Current Reformed Smoker for > 15 yrs	38.0	84.0	male	white	
+TCGA-78-7152	Current Reformed Smoker for < or = 15 yrs	40.0	65.0	male	white	
+TCGA-49-4506	Current Smoker	100.0	68.0	female	white	not hispanic or latino
+TCGA-05-4390	Current Reformed Smoker for < or = 15 yrs	15.0	58.0	female		
+TCGA-44-7659	Current Smoker	40.0	70.0	male	white	not hispanic or latino
+TCGA-49-4514	Current Reformed Smoker for > 15 yrs	65.0	79.0	female	white	
+TCGA-55-A490	Current Reformed Smoker for > 15 yrs	34.0	78.0	male	white	not hispanic or latino
+TCGA-NJ-A55A	Current Reformed Smoker for > 15 yrs	25.0	76.0	female	white	not hispanic or latino
+TCGA-55-7727	Current Smoker		70.0	male	white	not hispanic or latino
+TCGA-55-8508	Current Smoker		60.0	female	black or african american	not hispanic or latino
+TCGA-44-2668	Current Reformed Smoker for < or = 15 yrs	60.0	51.0	male	white	not hispanic or latino
+TCGA-93-8067	Current Reformed Smoker for < or = 15 yrs	20.0	77.0	male	asian	not hispanic or latino
+TCGA-86-8673	Current Smoker	54.0	61.0	male	white	not hispanic or latino
+TCGA-69-7765	Current Reformed Smoker for < or = 15 yrs		56.0	male	black or african american	not hispanic or latino
+TCGA-49-4487	Current Reformed Smoker for < or = 15 yrs	40.0	72.0	female	white	not hispanic or latino
+TCGA-MP-A4TE	Current Reformed Smoker for < or = 15 yrs	40.0	56.0	male	white	not hispanic or latino
+TCGA-44-2659	Current Reformed Smoker for < or = 15 yrs	57.0	65.0	female	white	not hispanic or latino
+TCGA-44-A4SU	Current Reformed Smoker for < or = 15 yrs	50.0	67.0	female	white	not hispanic or latino
+TCGA-55-7907	Current Reformed Smoker for > 15 yrs	80.0	77.0	male	white	not hispanic or latino
+TCGA-97-A4M1	Current Reformed Smoker for > 15 yrs	3.0	52.0	female	white	not hispanic or latino
+TCGA-86-8672	Lifelong Non-Smoker		59.0	male	white	not hispanic or latino
+TCGA-91-7771	Current Reformed Smoker for < or = 15 yrs	75.0	62.0	male	white	not hispanic or latino
+TCGA-78-7160	Current Reformed Smoker for < or = 15 yrs	43.8	61.0	male	white	
+TCGA-44-6776	Current Reformed Smoker for < or = 15 yrs	45.0	60.0	female	white	
+TCGA-78-7153	Current Reformed Smoker for < or = 15 yrs	20.0	65.0	female	white	
+TCGA-62-A46R	Current Reformed Smoker for < or = 15 yrs	25.0	54.0	female	white	not hispanic or latino
+TCGA-75-6206	Current Reformed Smoker for > 15 yrs	20.0		male		
+TCGA-86-8671	Lifelong Non-Smoker		72.0	female	white	not hispanic or latino
+TCGA-55-6972	Current Smoker		72.0	male	white	not hispanic or latino
+TCGA-64-1681	Current Reformed Smoker for > 15 yrs		61.0	female	white	not hispanic or latino
+TCGA-95-7043	Current Reformed Smoker for < or = 15 yrs	40.0	63.0	female	white	not hispanic or latino
+TCGA-97-A4M7	Current Reformed Smoker for > 15 yrs	40.0	74.0	male	white	not hispanic or latino
+TCGA-49-4494	Current Reformed Smoker for > 15 yrs	50.0	77.0	male	white	not hispanic or latino
+TCGA-64-5775	Current Smoker	110.0	71.0	male	white	not hispanic or latino
+TCGA-50-5946	Current Reformed Smoker for < or = 15 yrs		62.0	male	white	
+TCGA-55-7913	Current Smoker	40.0	61.0	female	black or african american	not hispanic or latino
+TCGA-44-6779	Current Reformed Smoker for < or = 15 yrs	15.0	50.0	female	white	
+TCGA-97-8172	Current Reformed Smoker for > 15 yrs	20.0	75.0	female	white	not hispanic or latino
+TCGA-44-7661	Current Reformed Smoker for > 15 yrs	22.0	69.0	female	white	not hispanic or latino
+TCGA-38-4628	Lifelong Non-Smoker		65.0	female	white	not hispanic or latino
+TCGA-86-7713	Lifelong Non-Smoker		70.0	male	white	not hispanic or latino
+TCGA-44-2662	Current Reformed Smoker for > 15 yrs	56.0	65.0	male	white	not hispanic or latino
+TCGA-67-6216	Lifelong Non-Smoker		57.0	female	white	not hispanic or latino
+TCGA-55-7283	Current Reformed Smoker for > 15 yrs	5.0	76.0	female	white	not hispanic or latino
+TCGA-73-4659	Current Reformed Smoker for > 15 yrs	12.0	66.0	male	white	not hispanic or latino
+TCGA-86-8073	Current Smoker	40.0	58.0	male	white	not hispanic or latino
+TCGA-49-AARE	Current Reformed Smoker for < or = 15 yrs	15.0	51.0	female	black or african american	not hispanic or latino
+TCGA-05-4403	Current Reformed Smoker for > 15 yrs		76.0	male		
+TCGA-MN-A4N4	Current Smoker		57.0	male	white	not hispanic or latino
+TCGA-55-8091	Current Reformed Smoker for > 15 yrs		74.0	male	white	not hispanic or latino
+TCGA-05-4415	Current Reformed Smoker for < or = 15 yrs	29.0	57.0	male		
+TCGA-75-5147	Lifelong Non-Smoker			female		
+TCGA-78-7154	Current Reformed Smoker for < or = 15 yrs	112.5	72.0	male	white	
+TCGA-05-4410	Current Reformed Smoker for < or = 15 yrs	98.0	62.0	male		
+TCGA-05-4418	Current Smoker	25.0	69.0	male		
+TCGA-55-1595	Current Reformed Smoker for < or = 15 yrs		74.0	female	asian	not hispanic or latino
+TCGA-95-A4VK	Current Reformed Smoker for > 15 yrs	45.0	74.0	female	white	not hispanic or latino
+TCGA-99-AA5R	Current Smoker	46.0	70.0	female	black or african american	not hispanic or latino
+TCGA-53-7626	Current Reformed Smoker for < or = 15 yrs	35.0	76.0	female	white	not hispanic or latino
+TCGA-50-8457	Current Reformed Smoker for < or = 15 yrs	30.0	63.0	female	black or african american	not hispanic or latino
+TCGA-91-6840	Current Reformed Smoker for > 15 yrs	50.0	59.0	female	white	not hispanic or latino
+TCGA-55-8507	Current Smoker	120.0	53.0	male	white	not hispanic or latino
+TCGA-55-6969	Current Reformed Smoker for < or = 15 yrs		52.0	male	white	
+TCGA-38-4627	Current Reformed Smoker for < or = 15 yrs		64.0	female	white	not hispanic or latino
+TCGA-49-4488	Current Reformed Smoker for > 15 yrs		74.0	female	white	not hispanic or latino
+TCGA-62-A46O	Current Smoker	48.0	65.0	female	white	not hispanic or latino
+TCGA-86-8280	Lifelong Non-Smoker		54.0	female	white	not hispanic or latino
+TCGA-05-4434	Current Smoker	15.0	67.0	female		
+TCGA-44-A47G	Current Reformed Smoker for < or = 15 yrs	28.0	73.0	female	white	not hispanic or latino
+TCGA-78-7536	Current Reformed Smoker for < or = 15 yrs	44.0	69.0	male	white	
+TCGA-91-6831	Current Smoker		66.0	male	white	not hispanic or latino
+TCGA-55-7728	Current Reformed Smoker for < or = 15 yrs	30.0	64.0	female	white	not hispanic or latino
+TCGA-67-6215	Lifelong Non-Smoker		52.0	female	white	not hispanic or latino
+TCGA-69-7973	Current Reformed Smoker for < or = 15 yrs	25.0	42.0	female	white	not hispanic or latino
+TCGA-86-6562	Lifelong Non-Smoker		52.0	male	white	not hispanic or latino
+TCGA-55-7815	Lifelong Non-Smoker		76.0	male		
+TCGA-97-A4M0	Current Reformed Smoker for < or = 15 yrs	34.0	60.0	female	white	not hispanic or latino
+TCGA-44-5645	Current Reformed Smoker for > 15 yrs	5.0	61.0	female	black or african american	not hispanic or latino
+TCGA-75-7030	Lifelong Non-Smoker			male		
+TCGA-62-A46S	Current Reformed Smoker for < or = 15 yrs	40.0	73.0	male	white	not hispanic or latino
+TCGA-86-A4JF	Current Reformed Smoker for < or = 15 yrs		56.0	male	white	not hispanic or latino
+TCGA-05-5715	Lifelong Non-Smoker		69.0	female		
+TCGA-95-7947	Current Reformed Smoker for < or = 15 yrs	100.0	67.0	male	white	not hispanic or latino
+TCGA-50-6593	Current Reformed Smoker for < or = 15 yrs		49.0	female	white	not hispanic or latino
+TCGA-44-2666	Current Smoker	30.0	43.0	male	white	hispanic or latino
+TCGA-50-5051	Current Reformed Smoker for < or = 15 yrs	30.0	42.0	female	white	not hispanic or latino
+TCGA-J2-A4AG	Current Reformed Smoker for > 15 yrs	25.0	66.0	female	white	not hispanic or latino
+TCGA-55-8087	Lifelong Non-Smoker		59.0	female	white	not hispanic or latino
+TCGA-97-A4LX	Current Reformed Smoker for > 15 yrs	120.0	81.0	male	white	not hispanic or latino
+TCGA-MP-A4T2	Current Reformed Smoker for < or = 15 yrs	75.0	71.0	male	white	not hispanic or latino
+TCGA-55-A493	Current Smoker	53.0	54.0	female	white	not hispanic or latino
+TCGA-62-A472	Current Smoker	60.0	70.0	male	white	not hispanic or latino
+TCGA-80-5611	Current Reformed Smoker for < or = 15 yrs	60.0		male		
+TCGA-55-6985	Current Reformed Smoker for < or = 15 yrs	50.0	58.0	female	white	
+TCGA-J2-A4AE	Lifelong Non-Smoker		77.0	female	white	not hispanic or latino
+TCGA-62-A470	Current Reformed Smoker for > 15 yrs	30.0	84.0	male	white	not hispanic or latino
+TCGA-78-7542	Current Smoker	60.0	56.0	male	white	
+TCGA-55-6543	Current Reformed Smoker for < or = 15 yrs	60.0	60.0	female	white	
+TCGA-97-7938	Current Reformed Smoker for > 15 yrs	40.0	76.0	female	white	not hispanic or latino
+TCGA-05-4432	Current Smoker	58.0	66.0	male		
+TCGA-93-7348	Current Reformed Smoker for < or = 15 yrs	42.0	75.0	female	white	not hispanic or latino
+TCGA-78-7147	Current Smoker	50.0	67.0	female	white	
+TCGA-78-7148	Current Smoker	57.0	71.0	male	white	
+TCGA-35-3615	Lifelong Non-Smoker		57.0	male	white	not hispanic or latino
+TCGA-91-A4BC	Current Reformed Smoker for < or = 15 yrs	30.0	59.0	male	white	not hispanic or latino
+TCGA-44-7671	Current Reformed Smoker for > 15 yrs		64.0	male	black or african american	not hispanic or latino
+TCGA-38-6178	Lifelong Non-Smoker		70.0	female	white	not hispanic or latino
+TCGA-67-3770	Current Reformed Smoker for > 15 yrs		70.0	female	white	not hispanic or latino
+TCGA-93-7347	Current Reformed Smoker for > 15 yrs	11.0	76.0	female	white	not hispanic or latino
+TCGA-69-8254	Current Reformed Smoker for > 15 yrs	40.0	85.0	male	white	not hispanic or latino
+TCGA-55-6712	Current Reformed Smoker for < or = 15 yrs		71.0	male	white	
+TCGA-38-4630	Lifelong Non-Smoker		75.0	female	white	not hispanic or latino
+TCGA-4B-A93V	Current Reformed Smoker for < or = 15 yrs	30.0	52.0	female	black or african american	not hispanic or latino
+TCGA-86-8668	Lifelong Non-Smoker		61.0	female	white	not hispanic or latino
+TCGA-MP-A4TI	Current Reformed Smoker for > 15 yrs	35.0	72.0	male	white	not hispanic or latino
+TCGA-44-2661	Lifelong Non-Smoker		69.0	female	white	not hispanic or latino
+TCGA-50-5941	Current Smoker	25.0	55.0	female	white	
+TCGA-44-2657	Current Reformed Smoker for < or = 15 yrs	25.0	74.0	female	white	not hispanic or latino
+TCGA-97-8175	Current Reformed Smoker for > 15 yrs		55.0	female	white	not hispanic or latino
+TCGA-69-7978	Current Smoker	80.0	59.0	male	white	not hispanic or latino
+TCGA-05-4405	Current Reformed Smoker for < or = 15 yrs	65.0	74.0	female		
+TCGA-55-8505	Lifelong Non-Smoker		62.0	male	white	not hispanic or latino
+TCGA-44-A47F	Current Reformed Smoker for > 15 yrs	20.0	74.0	male	white	not hispanic or latino
+TCGA-49-4510	Current Smoker	55.5	51.0	female	black or african american	not hispanic or latino
+TCGA-64-1678	Current Reformed Smoker for > 15 yrs	20.0	70.0	female	white	not hispanic or latino
+TCGA-MP-A4TK	Current Reformed Smoker for < or = 15 yrs	28.0	56.0	female		
+TCGA-62-A46V	Current Reformed Smoker for > 15 yrs		78.0	female	white	not hispanic or latino
+TCGA-49-AAR2	Current Reformed Smoker for < or = 15 yrs		64.0	male	black or african american	not hispanic or latino
+TCGA-44-A4SS	Current Reformed Smoker for < or = 15 yrs	90.0	73.0	male	white	not hispanic or latino
+TCGA-05-4250	Current Reformed Smoker for < or = 15 yrs	47.0	79.0	female		
+TCGA-64-1676	Current Smoker	60.0	58.0	male	white	not hispanic or latino
+TCGA-44-2665	Lifelong Non-Smoker		55.0	female	white	not hispanic or latino
+TCGA-78-7155	Current Reformed Smoker for < or = 15 yrs	48.0	68.0	male	white	
+TCGA-97-7937	Current Reformed Smoker for > 15 yrs	35.0	65.0	male	white	not hispanic or latino
+TCGA-64-5774	Current Reformed Smoker for < or = 15 yrs	45.0	60.0	male	white	not hispanic or latino
+TCGA-78-7220	Current Smoker	35.0	53.0	female	white	
+TCGA-78-7167	Current Smoker	64.0	77.0	male	white	
+TCGA-55-8616	Current Reformed Smoker for < or = 15 yrs		58.0	female	white	not hispanic or latino
+TCGA-55-7570	Current Smoker		60.0	male	black or african american	not hispanic or latino
+TCGA-78-7146	Current Reformed Smoker for < or = 15 yrs	6.0	71.0	female	white	
+TCGA-44-3398	Current Reformed Smoker for < or = 15 yrs	60.0	77.0	female	white	not hispanic or latino

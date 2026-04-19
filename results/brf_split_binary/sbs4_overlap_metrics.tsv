@@ -1,0 +1,2 @@
+top_n	n_overlap	spearman_r	spearman_p	cosine_similarity
+30	19	0.7446923981045782	3.3998897821544542e-18	0.8106539261457466

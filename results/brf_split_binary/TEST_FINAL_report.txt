@@ -1,0 +1,13 @@
+accuracy: 0.8081
+balanced_accuracy: 0.8882
+f1_macro: 0.7350
+support: 99
+
+              precision    recall  f1-score   support
+
+       Never       0.42      1.00      0.60        14
+        Ever       1.00      0.78      0.87        85
+
+    accuracy                           0.81        99
+   macro avg       0.71      0.89      0.73        99
+weighted avg       0.92      0.81      0.83        99

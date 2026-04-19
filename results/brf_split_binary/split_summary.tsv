@@ -1,0 +1,4 @@
+split	n_rows	n_patients	n_never	n_ever
+train	315	315	44	271
+validation	79	79	11	68
+test	99	99	14	85
